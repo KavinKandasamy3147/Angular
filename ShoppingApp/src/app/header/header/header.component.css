@@ -1,0 +1,5 @@
+.dropdown-menu{
+ left: -150%;
+ --bs-dropdown-link-hover-bg:#dc3545;
+--bs-dropdown-link-color: var(--bs-body-color);
+}
